@@ -54,8 +54,3 @@ Keep growing as a developer by building real-world projects and learning new tec
 ### ⚡ Fun fact
 > “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jhovanesoto&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
